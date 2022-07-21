@@ -21,3 +21,4 @@
 - an array that allows for storing multiple data in one variable.
 - In C, we have to specifiy what data type the array will hold and how many.
   - i.e int array_name[ number of data types ].
+- One of the pros of storing multiple data in arrays is that it saves memory on the RAM. instead of having multiple values stored in multiple variables, have one variable that holds multiple values.
